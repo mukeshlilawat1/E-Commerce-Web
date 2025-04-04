@@ -5,7 +5,7 @@ A full-stack e-commerce web application with a **Spring Boot** backend and a **R
 ## 📂 Project Structure  
 ```
 E-Commerce-Web/
-│── Backend/SpringEcom   # Backend: Spring Boot, JPA, MySQL
+│── Backend/SpringEcom   # Backend: Spring Boot, JPA, Postgres
 │── Frontend/ecom        # Frontend: React.js, Redux, Tailwind CSS
 │── README.md            # Project Documentation
 ```
