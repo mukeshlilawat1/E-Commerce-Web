@@ -14,8 +14,6 @@ E-Commerce-Web/
 - 🔐 User Authentication (JWT-based)  
 - 🛒 Product Management  
 - 🏷️ Shopping Cart & Checkout  
-- 💳 Payment Integration  
-- 📊 Order History & Admin Dashboard  
 
 ## 🛠️ Tech Stack  
 ### **Backend**  
@@ -25,8 +23,6 @@ E-Commerce-Web/
 
 ### **Frontend**  
 - **React.js** (UI)  
-- **Redux Toolkit** (State Management)  
-- **Tailwind CSS** (Styling)  
 
 ## 🚀 Setup Instructions  
 
