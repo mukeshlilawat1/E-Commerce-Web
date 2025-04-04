@@ -1,6 +1,3 @@
-Here's a professional README for your **E-Commerce-Web** project:  
-
----
 
 ### 📌 E-Commerce-Web  
 A full-stack e-commerce web application with a **Spring Boot** backend and a **React.js** frontend.
